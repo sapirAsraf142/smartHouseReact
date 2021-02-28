@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/smartHouseReact/static/css/main.08fc9b63.chunk.css",
+    "main.js": "/smartHouseReact/static/js/main.37d6da0d.chunk.js",
+    "main.js.map": "/smartHouseReact/static/js/main.37d6da0d.chunk.js.map",
+    "runtime-main.js": "/smartHouseReact/static/js/runtime-main.9364c158.js",
+    "runtime-main.js.map": "/smartHouseReact/static/js/runtime-main.9364c158.js.map",
+    "static/js/2.9daade99.chunk.js": "/smartHouseReact/static/js/2.9daade99.chunk.js",
+    "static/js/2.9daade99.chunk.js.map": "/smartHouseReact/static/js/2.9daade99.chunk.js.map",
+    "static/js/3.549962d3.chunk.js": "/smartHouseReact/static/js/3.549962d3.chunk.js",
+    "static/js/3.549962d3.chunk.js.map": "/smartHouseReact/static/js/3.549962d3.chunk.js.map",
+    "index.html": "/smartHouseReact/index.html",
+    "static/css/main.08fc9b63.chunk.css.map": "/smartHouseReact/static/css/main.08fc9b63.chunk.css.map",
+    "static/js/2.9daade99.chunk.js.LICENSE.txt": "/smartHouseReact/static/js/2.9daade99.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/smartHouseReact/static/media/original.86d9e4c9.jpg",
+    "static/media/wifi.1901d17e.png": "/smartHouseReact/static/media/wifi.1901d17e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9364c158.js",
+    "static/js/2.9daade99.chunk.js",
+    "static/css/main.08fc9b63.chunk.css",
+    "static/js/main.37d6da0d.chunk.js"
+  ]
+}
