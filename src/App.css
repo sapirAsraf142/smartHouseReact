@@ -1,0 +1,134 @@
+.App {
+  margin: 0 auto;
+  min-height: 100vh;
+  text-align: center;
+  font-family: 'Segoe UI';
+  background-image: url('./images/original.jpg');
+  background-size: 100% 100%;
+}
+
+.title {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding-top: 40px;
+}
+
+.close {
+  position: absolute;
+  left: 5%;
+}
+
+p {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.title img{
+  width: 30px;
+  height: 30px;
+}
+
+#displayDiv{
+  display: none;
+}
+
+button, input, select {
+  font-family: 'Segoe UI';
+  font-weight: 500;
+  outline: none;
+}
+
+.addProduct, .roomButton, .linkButtons:hover{
+  background-color: rgba(255, 255, 255, 0.678);
+}
+
+.roomColor{
+  width: 50px !important;
+}
+
+.addRoomRegister {
+  width: 300px;
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: column;
+}
+
+.productsList{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+input, select{
+  width: 150px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+.mainDiv{
+  padding-top: 2.5%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.roomsDivs{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.roomButtons{
+  position: relative;
+  border: 2px solid black;
+  width: 127px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.roomButtons .MuiIcon-root {
+  font-size: 29px !important;
+  position: absolute;
+  left: 1px;
+  top: 4px;
+}
+
+.addProduct{
+  background-color: rgba(255, 255, 255, 0.459);
+  border: 2px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.linkButtons{
+  border: 2px solid black;
+  font-weight: bolder;
+  width: 127px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.459);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.red{
+  background-color: red;
+  /* width: 108px; */
+  border: 1px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.green{
+  background-color: green;
+  /* width: 108px; */
+  color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+}
